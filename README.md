@@ -13,4 +13,4 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 
 Project Description
-Insert one paragraph description of your project
+ Climate change is a widely discussed topic, but the relevant research is often not easily accessible and relatable to the layperson. This project analyzes key weather variables for four cities (New York, Shanghai, Anchorage, and Lhasa), aims to examine how weather patterns have evolved in the last two decades, and to visualize these changes in a way that makes its relevance for these cities clear.
